@@ -56,7 +56,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="YOUR_PHOTO_URL" alt="Ramiz Roshan" class="profile-pic" />
+    <img src="1000172594.jpg" alt="Ramiz Roshan" class="profile-pic" />
     <div class="vishu-banner">🌼 Happy Vishu! 🌼</div>
     <h2>Ramiz Roshan</h2>
     <img src="GooglePay_QR.png" alt="UPI QR Code" class="qr-code" />
