@@ -59,7 +59,7 @@
     <img src="1000172594.jpg" alt="Ramiz Roshan" class="profile-pic" />
     <div class="vishu-banner">🌼 Happy Vishu! 🌼</div>
     <h2>Ramiz Roshan</h2>
-    <img src="YOUR_QR_CODE_URL" alt="UPI QR Code" class="qr-code" />
+    <img src="GooglePay_QR.png" alt="UPI QR Code" class="qr-code" />
     <p><strong>UPI ID:</strong> ramizroshan123@okaxis</p>
     <p>Scan to pay with any UPI app</p>
   </div>
