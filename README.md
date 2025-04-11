@@ -17,7 +17,7 @@
 </head>
 <body>
   <h1>Scan My QR Code</h1>
-  <img src="my-qr.png" alt="My QR Code">
+  <img src="GooglePay_QR.png" alt="My QR Code">
   <p>Tap and scan using any QR code scanner.</p>
 </body>
 </html>
