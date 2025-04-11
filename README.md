@@ -22,8 +22,8 @@
       position: relative;
     }
     .profile-pic {
-      width: 100px;
-      height: 100px;
+      width: 10px;
+      height: 10px;
       object-fit: cover;
       border-radius: 50%;
       border: 4px solid #ffcc00;
